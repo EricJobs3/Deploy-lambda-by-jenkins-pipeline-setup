@@ -147,6 +147,8 @@ pipeline {
                             ]"
                     '''
                 }
+                echo 'Take a 10 seconds break'
+                sleep 10
             }
         }
 
